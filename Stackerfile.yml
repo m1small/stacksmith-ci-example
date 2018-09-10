@@ -1,5 +1,5 @@
 appId: demo/apps/cf655b80-8bcd-0136-da4a-469fe3fc27a1
-appVersion: "1.1"
+appVersion: "1.2"
 files:
   userUploads:
     - my-application
